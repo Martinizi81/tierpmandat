@@ -1,0 +1,6 @@
+{
+  "name": "Tierpsfullmäktige — Mandat & Majoriteter",
+  "description": "Interaktivt verktyg för att se alla mandat i Tierps kommunfullmäktige och dra partier eller enskilda mandat till olika samarbeten för att bilda majoritet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
